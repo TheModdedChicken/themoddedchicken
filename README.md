@@ -16,5 +16,6 @@ Will probably change sooner or later. I'm just too stupid to come up with someth
 Uhh, I'm a person... I guess? What do people put in their own README files anyways?
 
 Well I'm pretty boring and I can tell you are bored reading this. 
+
 Here are some other cool people you can check out: [Leabmgrt](https://github.com/leabmgrt) | [Edaz](https://github.com/edazpotato) | [Archie](https://github.com/archiecodes)
 They most likely have more interesting projects.
