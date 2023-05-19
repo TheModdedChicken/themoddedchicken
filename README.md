@@ -1,22 +1,27 @@
-Hey. I see you've stumbled upon my github page somehow.... Congrats.
+Hey there! Not too good at this so I'll keep it quick.
 
-What do you want an award or something?
-You here to scoff at how little contributions I've made to the GitHub repositories I am apart of?
+Currently working on a few things; Namely, [ManiaKV](https://github.com/TheModdedChicken/ManiaKV), [TBundlr](https://github.com/TheModdedChicken/TBundlr) (Not Public Yet), and minor projects here and there.
+"Shiny object syndrome" has a stranglehold on me so I quite frequently bounce from project to project.
 
-Well while you are here I might as well tell you stuff about me.
+The tools and languages I use are as follows:
 
-Where to start, where to start....
+<img align="left" alt="Visual Studio Code" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Visual Studio" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 
-Uhh, I like bagels? Yeah that's right I like bagels.
-Pretty cool fact about me right? Bagels.
+<img align="left" alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Javascript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
-Oh! I am also working on a project called [ManiaKV](https://github.com/TheModdedChicken/ManiaKV)... Yep very creative I know.
-Will probably change sooner or later. I'm just too stupid to come up with something right now.
+<img align="left" alt="NodeJS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="React" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NextJS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 
-Uhh, I'm a person... I guess? What do people put in their own README files anyways?
+<img align="left" alt="C++" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
-Well I'm pretty boring and I can tell you are bored reading this. 
+<br>
+<br>
 
-Here are some other cool people you can check out: [rainloreley](https://github.com/rainloreley) | [Edaz](https://github.com/edazpotato) | [Archie](https://github.com/archiecodes) 
-
+Here are some other cool people you can check out: [rainloreley](https://github.com/rainloreley) | [Edaz](https://github.com/edazpotato) | [Archie](https://github.com/archiecodes)
+<br>
 They most likely have more interesting projects.
