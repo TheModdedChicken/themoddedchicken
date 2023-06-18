@@ -1,6 +1,6 @@
 Hey there! Not too good at this so I'll keep it quick.
 
-Currently working on a few things; Namely, [ManiaKV](https://github.com/TheModdedChicken/ManiaKV), [TBundlr](https://github.com/TheModdedChicken/TBundlr) (Not Public Yet), and minor projects here and there.
+Currently working on a few things; Namely, [ManiaKV](https://github.com/TheModdedChicken/ManiaKV), [Rayk](https://github.com/TheModdedChicken/rayk-api), [TBundlr](https://github.com/TheModdedChicken/TBundlr) (Not Public Yet), and minor projects here and there.
 "Shiny object syndrome" has a stranglehold on me so I quite frequently bounce from project to project.
 
 The tools and languages I use are as follows:
