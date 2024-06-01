@@ -22,6 +22,6 @@ The tools and languages I use are as follows:
 <br>
 <br>
 
-Here are some other cool people you can check out: [rainloreley](https://github.com/rainloreley) | [Edaz](https://github.com/edazpotato) | [Archie](https://github.com/archiecodes)
+Here are some other cool people you can check out: [rainloreley](https://github.com/rainloreley) | [Edaz](https://github.com/edazpotato) | [Archie](https://github.com/xkcdstickfigure)
 <br>
 They most likely have more interesting projects.
