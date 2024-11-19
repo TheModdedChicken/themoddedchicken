@@ -2,7 +2,7 @@ Hey there! Not too good at this so I'll keep it quick.
 
 Currently working on a few things; Namely [WebConnect](https://github.com/TheModdedChicken/WebConnect), [MiniTab](https://github.com/TheModdedChicken/MiniTab), and other minor projects here and there.
 
-The tools and languages I use are as follows:
+The tools and languages I primarily use are as follows:
 
 <img align="left" title="Visual Studio Code" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" title="Visual Studio" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
